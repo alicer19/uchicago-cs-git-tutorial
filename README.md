@@ -1,1 +1,3 @@
-Alice Roberson alicer 
+Alice Roberson alicer
+UChicago CS Git Tutorial
+ 
